@@ -1,5 +1,5 @@
 # Restaurant Landing Page Demo
-## Project in Getting Started With React Bootcamp
+## Project Submission for Getting Started With React Bootcamp
 ![React Landing Page (1)](https://user-images.githubusercontent.com/62803746/140638281-1c06189f-afb1-4646-92f9-b464c986bc6e.gif)
 
 # Getting Started with Create React App
